@@ -1,0 +1,19 @@
+1. lasanha
+
+2. empadão
+
+3. salada
+
+4. bolo
+
+5. hamburguer
+
+6. pizza
+
+7. cachorro-quente
+
+8. strogonoff
+
+9. bife
+
+10. coxinha.
